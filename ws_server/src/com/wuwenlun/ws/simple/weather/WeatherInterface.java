@@ -1,4 +1,4 @@
-package com.wuwenlun.ws;
+package com.wuwenlun.ws.simple.weather;
 
 public interface WeatherInterface {
 	
